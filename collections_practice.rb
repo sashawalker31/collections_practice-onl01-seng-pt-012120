@@ -24,5 +24,5 @@ end
 def reverse_array(array)
     reversed= Array.new
     array.length.times { reversed << array.pop }
-
+  reversed
 end
