@@ -30,4 +30,5 @@ end
 def kesha_maker
   money= Array.new
   array.each { money << array([2], "$")}
+  money
 end
