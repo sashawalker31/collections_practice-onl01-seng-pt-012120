@@ -26,3 +26,9 @@ def reverse_array(array)
     array.length.times { reversed << array.pop }
   reversed
 end
+
+def kesha_maker
+  money= Array.new
+  array[2]="$"
+  array.each { money
+end
