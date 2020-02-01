@@ -17,6 +17,6 @@ def sort_array_char_count(array)
 end
 
 def swap_elements(array)
-array=["blake", "ashley", "scott"].swap
+array=["blake", "ashley", "scott"].swap!(1,2)
 puts array
 end
