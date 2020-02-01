@@ -15,3 +15,6 @@ def sort_array_char_count(array)
     x.length<=>y.length
   end
 end
+
+def swap_elements(array)
+  
