@@ -29,5 +29,5 @@ end
 
 def kesha_maker
   money= Array.new
-  array.each { money << array[2].push}
+  array.each { money << array([2], "$")}
 end
