@@ -21,4 +21,3 @@ array=["blake", "ashley", "scott"]
 array[1], array[2] = array[2], array[1]
 puts array
 end
-end
